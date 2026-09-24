@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/32621020/README.md)
+
 ![Stroopwatch](docs/assets/stroopwatch-banner.png)
 
 # Stroopwatch [![CI](https://github.com/<org>/stroopwatch/actions/workflows/ci.yml/badge.svg)](https://github.com/<org>/stroopwatch/actions/workflows/ci.yml) [![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE) [![Language: Rust](https://img.shields.io/badge/Language-Rust-orange.svg)](https://www.rust-lang.org/) [![Language: TypeScript](https://img.shields.io/badge/Language-TypeScript-3178c6.svg)](https://www.typescriptlang.org/)
